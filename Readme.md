@@ -1,7 +1,5 @@
 ### Docker & Java
 
-## Shawn Modestine
-
 This repo contains demo materials for:
 
 - Tips minimize java containers images
